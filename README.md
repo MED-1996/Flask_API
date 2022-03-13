@@ -1,10 +1,11 @@
-# Flask API :scissors:
+# Flask API 🧪
 
-A simple Flask CRUD API that manages store & item creation.
+A simple CRUD API built using Flask. The API allows users to create/edit/delete stores & items. 
 
 # What I Learned :notebook:
 
-* How to built an API using Flask.
-* How to us SQLAlchemy.
-* How to configure an Ubuntu server.
+* How to build a CRUD API using Flask.
+* How to use SQLAlchemy.
+* How to use Digital Ocean.
+* How to configure an Ubuntu Server.
 * How to create & register a Domain Name.
